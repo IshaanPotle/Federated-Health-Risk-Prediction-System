@@ -1,0 +1,42 @@
+# docker-compose.yml
+version: '3.8'
+services:
+  server:
+    build: .
+    command: python backend/server.py
+    volumes:
+      - .:/app
+    ports:
+      - "8080:8080"
+  client_1:
+    build: .
+    command: python clients/client_1/train.py
+    volumes:
+      - .:/app
+  client_2:
+    build: .
+    command: python clients/client_2/train.py
+    volumes:
+      - .:/app
+  client_3:
+    build: .
+    command: python clients/client_3/train.py
+    volumes:
+      - .:/app
+  client_4:
+    build: .
+    command: python clients/client_4/train.py
+    volumes:
+      - .:/app
+  client_5:
+    build: .
+    command: python clients/client_5/train.py
+    volumes:
+      - .:/app
+  dashboard:
+    build: .
+    command: streamlit run dashboard/app.py
+    volumes:
+      - .:/app
+    ports:
+      - "8501:8501" 

@@ -1,0 +1,5 @@
+Date,StartTime,Duration,Activity,ActivityType,LogType,Steps,Distance,ElevationGain,Calories,SedentaryMinutes,LightlyActiveMinutes,FairlyActiveMinutes,VeryActiveMinutes,AverageHeartRate,OutOfRangeHeartRateMinutes,FatBurnHeartRateMinutes,CardioHeartRateMinutes,PeakHeartRateMinutes
+10/1/2017,12:21:10,5172000,Walk,90013,auto_detected,5768,0,0,508,10,32,8,36,84,48,27,2,0
+10/3/2017,19:14:12,1792000,Walk,90013,auto_detected,2257,0,39.624,199,1,9,5,14,82,23,6,0,0
+10/3/2017,23:19:57,1787000,Walk,90013,auto_detected,2334,0,3.048,171,0,13,11,5,81,24,4,0,0
+10/5/2017,18:37:24,1075000,Walk,90013,auto_detected,1752,0,0,136,0,1,0,17,104,0,18,0,0

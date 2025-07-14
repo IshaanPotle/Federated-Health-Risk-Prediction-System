@@ -1,0 +1,9 @@
+# requirements.txt
+flwr
+pytorch-lightning
+pandas
+numpy
+streamlit
+shap
+matplotlib
+scikit-learn 

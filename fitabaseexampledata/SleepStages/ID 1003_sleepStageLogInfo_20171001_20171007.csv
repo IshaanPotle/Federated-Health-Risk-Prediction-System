@@ -1,0 +1,8 @@
+LogId,StartTime,Duration,Efficiency,IsMainSleep,SleepDataType,MinutesAfterWakeUp,MinutesAsleep,MinutesToFallAsleep,TimeInBed,ClassicAsleepCount,ClassicAsleepDuration,ClassicAwakeCount,ClassicAwakeDuration,ClassicRestlessCount,ClassicRestlessDuration,StagesWakeCount,StagesWakeDuration,StagesWakeThirtyDayAvg,StagesLightCount,StagesLightDuration,StagesLightThirtyDayAvg,StagesDeepCount,StagesDeepDuration,StagesDeepThirtyDayAvg,StagesREMCount,StagesREMDuration,StagesREMThirtyDayAvg
+15937875376,9/30/2017 11:57:00 PM,31860000,91,True,stages,0,460,0,531,,,,,,,32,71,81,34,295,243,6,89,94,8,76,81
+15943392677,10/1/2017 11:26:00 PM,30240000,89,True,stages,0,429,0,504,,,,,,,36,75,81,37,244,246,4,85,93,11,100,80
+15956784507,10/2/2017 11:47:30 PM,29340000,88,True,stages,4,421,0,489,,,,,,,43,68,81,43,273,246,3,73,93,7,75,80
+15966599840,10/4/2017 12:44:00 AM,26220000,96,True,stages,0,387,0,437,,,,,,,25,50,81,18,216,247,2,73,92,13,98,80
+15973735798,10/4/2017 10:42:00 PM,22860000,87,True,stages,0,325,0,381,,,,,,,27,56,79,24,197,246,3,59,91,9,69,81
+15983622756,10/5/2017 11:57:30 PM,25140000,90,True,stages,0,360,0,419,,,,,,,27,59,78,20,178,244,3,85,90,14,97,81
+15990920895,10/6/2017 11:01:00 PM,23820000,88,True,stages,1,339,0,397,,,,,,,26,58,77,22,150,242,4,100,89,12,89,81
